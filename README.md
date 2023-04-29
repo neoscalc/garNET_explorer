@@ -19,8 +19,8 @@ Installation steps:
 - Import grains via the menu
 
 <br><br>
-<img width="600" alt="Screenshot" src="https://user-images.githubusercontent.com/54409312/235312691-86d8ab13-9834-4ef1-bea3-426a07d63090.png">
+<img width="800" alt="Screenshot" src="https://user-images.githubusercontent.com/54409312/235312691-86d8ab13-9834-4ef1-bea3-426a07d63090.png">
 
 <br><br>
-<img width="100" alt="ERC" src="https://user-images.githubusercontent.com/54409312/235312783-06e69482-7f48-4261-8a1f-207964c8ca82.png">
+<img width="200" alt="ERC" src="https://user-images.githubusercontent.com/54409312/235312783-06e69482-7f48-4261-8a1f-207964c8ca82.png">
 
