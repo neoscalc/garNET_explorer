@@ -11,7 +11,7 @@ garNET_explorer is compatible with MATLAB r2022b and r2023a. It can only be used
 Installation steps:
 - Download the latest release
 - Open MATLAB
-- Open the package installer of garNET_explorer
+- Open the package garNET_explorer.mlappinstall to install the app
 
 ## How to get started
 - Open MATLAB and navigate to your working directory. This directory should contain a folder _grain_arrays_ with the data (npy files)
