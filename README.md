@@ -18,23 +18,10 @@ Installation steps:
 - Select the tab APP in MATLAB and open garNET_explorer
 - Import grains via the menu
 
-<br /> <br />
-  <img 
-    style="display: block; 
-           margin-left: auto;
-           margin-right: auto;
-           width: 600px;"
-    src="[](https://user-images.githubusercontent.com/54409312/235297334-a741757d-169e-455a-addd-a9ba675868d8.png)" 
-    alt="garnet_Explorer_screenshot">
-</img>
+<br><br>
+<img width="600" alt="Screenshot" src="https://user-images.githubusercontent.com/54409312/235312691-86d8ab13-9834-4ef1-bea3-426a07d63090.png">
 
-<br /> <br />
-  <img 
-    style="display: block; 
-           margin-left: auto;
-           margin-right: auto;
-           width: 70px;"
-    src="[[https://markdown.land/wp-content/uploads/2021/06/markdown-512px.png](https://ec.europa.eu/info/research-and-innovation/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe_en)](https://user-images.githubusercontent.com/54409312/168419191-401f1d2c-014f-4640-9edc-cfa6f3832a40.png)" 
-    alt="garnet_Explorer_screenshot">
-</img>
+<br><br>
+<img width="100" alt="ERC" src="https://user-images.githubusercontent.com/54409312/235297098-7d1019f2-2ec9-453b-b751-6becf7764cb1.png">
+
 
