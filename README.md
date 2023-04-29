@@ -22,6 +22,5 @@ Installation steps:
 <img width="600" alt="Screenshot" src="https://user-images.githubusercontent.com/54409312/235312691-86d8ab13-9834-4ef1-bea3-426a07d63090.png">
 
 <br><br>
-<img width="100" alt="ERC" src="https://user-images.githubusercontent.com/54409312/235297098-7d1019f2-2ec9-453b-b751-6becf7764cb1.png">
-
+<img width="100" alt="ERC" src="https://user-images.githubusercontent.com/54409312/235312783-06e69482-7f48-4261-8a1f-207964c8ca82.png">
 
