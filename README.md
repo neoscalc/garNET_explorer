@@ -1,4 +1,4 @@
-# garNET_explorer repository
+# Welcome to garNET_explorer repository
 
 <img width="150" alt="garNET_explorer" src="https://user-images.githubusercontent.com/54409312/235297098-7d1019f2-2ec9-453b-b751-6becf7764cb1.png">
 
@@ -19,3 +19,5 @@ Installation steps:
 - Import grains via the menu
 
 <img width="600" alt="garnet_Explorer_screenshot" src="https://user-images.githubusercontent.com/54409312/235297334-a741757d-169e-455a-addd-a9ba675868d8.png">
+
+![168419191-401f1d2c-014f-4640-9edc-cfa6f3832a40](https://user-images.githubusercontent.com/54409312/235312431-f015145e-df0e-4f5e-a87c-5f6283333021.png)
