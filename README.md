@@ -13,7 +13,7 @@ Installation steps:
 - Open MATLAB
 - Open the package garNET_explorer.mlappinstall to install the app
 
-## How to get started
+## How to get started?
 - Open MATLAB and navigate to your working directory. This directory should contain a folder _grain_arrays_ with the data (npy files)
 - Select the tab APP in MATLAB and open garNET_explorer
 - Import grains via the menu
