@@ -18,7 +18,7 @@ Installation steps:
 - Select the tab APP in MATLAB and open garNET_explorer
 - Import grains via the menu
 
-<br><br>
+<br>
 <img width="800" alt="Screenshot" src="https://user-images.githubusercontent.com/54409312/235312691-86d8ab13-9834-4ef1-bea3-426a07d63090.png">
 
 ## About
