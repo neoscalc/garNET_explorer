@@ -2,10 +2,10 @@
 
 <img width="150" alt="garNET_explorer" src="https://user-images.githubusercontent.com/54409312/235297098-7d1019f2-2ec9-453b-b751-6becf7764cb1.png">
 
-garNET_explorer is a MATLAB app for the vizualisation and classification of garnet. 
+garNET_explorer is a MATLAB app for the vizualisation and classification of garnet shapes. 
 
 ## Compatibility
-garNET_explorer is compatible with MATLAB r2022b and r2023a. It can only be used in MATLAB. It requires the image processing toolbox. 
+garNET_explorer is compatible with MATLAB r2022b and r2023a. This version can only be used in MATLAB. The MATLAB image processing toolbox is required to use garNET_explorer. 
 
 ## Installation
 Installation steps:
