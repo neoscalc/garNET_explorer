@@ -21,6 +21,10 @@ Installation steps:
 <br><br>
 <img width="800" alt="Screenshot" src="https://user-images.githubusercontent.com/54409312/235312691-86d8ab13-9834-4ef1-bea3-426a07d63090.png">
 
+## About
+
+Python input files are read using [npy-matlab](https://github.com/kwikteam/npy-matlab)
+
 <br><br>
 <a href="https://ec.europa.eu/info/research-and-innovation/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe_en" target="_blank"><img src="https://user-images.githubusercontent.com/54409312/168419191-401f1d2c-014f-4640-9edc-cfa6f3832a40.png" height="70"/></a>
 
