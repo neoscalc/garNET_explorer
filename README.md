@@ -22,5 +22,5 @@ Installation steps:
 <img width="800" alt="Screenshot" src="https://user-images.githubusercontent.com/54409312/235312691-86d8ab13-9834-4ef1-bea3-426a07d63090.png">
 
 <br><br>
-<img width="200" alt="ERC" src="https://user-images.githubusercontent.com/54409312/235312783-06e69482-7f48-4261-8a1f-207964c8ca82.png">
+<a href="https://ec.europa.eu/info/research-and-innovation/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe_en" target="_blank"><img src="https://user-images.githubusercontent.com/54409312/168419191-401f1d2c-014f-4640-9edc-cfa6f3832a40.png" height="70"/></a>
 
